@@ -1,4 +1,4 @@
-# [Project Name] — LinkedIn Personal Brand Copilot  
+# Vortex — LinkedIn Personal Brand Copilot  
 *(with Persistent Cognition)*
 
 ## What this is
